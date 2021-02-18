@@ -97,7 +97,7 @@ address = {street = "", city = "Hong Kong", region = "HK", postcode = "", countr
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "37.4275", longitude = "-122.1697"}
+coordinates = {latitude = "22.422085", longitude = "114.214542"}
 
 # Contact links
 #   Set to `[]` to disable, or comment out unwanted lines with a hash `#`.
@@ -251,7 +251,7 @@ plugins_js  = []
   #   "google": Google Maps
   #   "mapnik": OpenStreetMap (Mapnik)
   #   "mapbox": OpenStreetMap (Mapbox)
-  provider = "mapnik"
+  provider = "google"
   api_key = ""
   zoom = 15
 
