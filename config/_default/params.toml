@@ -252,7 +252,7 @@ plugins_js  = []
   #   "mapnik": OpenStreetMap (Mapnik)
   #   "mapbox": OpenStreetMap (Mapbox)
   provider = "google"
-  api_key = ""
+  api_key = "AIzaSyCikx2em2EH3fwnpYGRyU7UpWn9jcUme0U"
   zoom = 15
 
 ############################
