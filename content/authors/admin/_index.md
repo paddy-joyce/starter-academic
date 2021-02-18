@@ -46,15 +46,18 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/paddy_joyce
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
   link: https://scholar.google.com/citations?user=qSGZYIcAAAAJ&hl=en
-- icon: github
+- icon: researchgate
   icon_pack: fab
-  link: https://github.com/paddy-joyce
+  link: https://researchgate.net/Patrick_Joyce2
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/patrick-joyce-1a1579a5/
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/paddyjoyce_photography
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
