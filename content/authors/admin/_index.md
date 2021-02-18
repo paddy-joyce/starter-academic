@@ -70,8 +70,7 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a marine ecologist, currently working at The Chinese University of Hong Kong with Prof. Laura Falkenberg. My research is driven by attempts to understand how natural and future environmental conditions alter competition and trophic interactions between species. By using a range of field and laboratory exeriments, I attmept to quantify interaction strengths and predict how environmental change will alter such relationships. The basis of my work involves marine habitat forming bivalves, the organisms associated with these habitats, and in particular,  invasive species. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
