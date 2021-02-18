@@ -128,7 +128,7 @@ date_format = "Jan 2, 2006"
 time_format = "3:04 PM"
 
 # Address format (en-us, en-gb, de, fr-fr, zh).
-address_format = "en-us"
+address_format = "en-gb"
 
 ############################
 ## Advanced
@@ -161,12 +161,12 @@ plugins_js  = []
 # Avatars.
 # An avatar is an image that appears next to a user's name.
 # An avatar can be uploaded as an image named `avatar` to each user's profile or fetched from Gravatar.com.
-[avatar]
+[admin]
   # Get user avatars from Gravatar.com? (true/false)
   gravatar = false
 
   # Choose a shape for avatar images. Options: circle, square.
-  shape = "circle"
+  shape = "square"
 
 # Configuration of publication pages.
 [publications]
