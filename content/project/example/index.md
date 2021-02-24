@@ -1,4 +1,6 @@
 ---
+active: false
+
 title: Example Project
 summary: An example of using the in-built project page.
 tags:
