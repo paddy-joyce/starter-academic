@@ -1,12 +1,12 @@
 ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
-widget: pages
+widget: portfolio
 
 # This file represents a page section.
 headless: true
 
-#Activate?
+#Activate widget?
 active: false
 
 # Order that this section appears on the page.
