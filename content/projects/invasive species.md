@@ -1,7 +1,7 @@
 ---
   # An instance of the Portfolio widget.
   # Documentation: https://wowchemy.com/docs/page-builder/
-  widget: Invasive species impacts
+  widget: about
 
 # This file represents a page section.
 headless: true
@@ -12,7 +12,7 @@ active: true
 # Order that this section appears on the page.
 weight: 65
 
-title: Invasive species impacts
+title: Invasive species
 subtitle: ''
 
 content:
@@ -37,11 +37,11 @@ design:
 #   2 = Compact
 #   3 = Card
 #   5 = Showcase
-view: 2
+view: 3
 
 # For Showcase view, flip alternate rows?
 flip_alt_rows: false
 ---
 
-Damaging invasive species are one of the largest drivers of biodiversity loss worldwide, however, their impacts are often overlooked in favour of other 'fashionable' topics such as plastic waste. Owing to their capacity to drive changes in biodiversity and disrupt ecosystems, improving our abilities to understand and predict the impacts of invasive species is important. This on-going work aims to use experimental approaches to quantify the impacts of damaging invaders, as well as identifying pathways of ecological disruption on recipient ecosystems. 
+Damaging invasive species are one of the largest drivers of biodiversity loss worldwide, however, their impacts are often overlooked in favour of other 'fashionable' topics such as plastic waste. Owing to their capacity to drive changes in biodiversity and disrupt ecosystems, improving our abilities to understand and predict the impacts of invasive species is important. This on-going work aims to use experimental approaches to identify why invasive species succeed in new ecosystems and to quantify the ecological impacts of damaging invaders.
 

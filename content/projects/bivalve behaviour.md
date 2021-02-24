@@ -1,7 +1,7 @@
 ---
   # An instance of the Portfolio widget.
   # Documentation: https://wowchemy.com/docs/page-builder/
-  widget: Bivalve ecology
+  widget: about
 
 # This file represents a page section.
 headless: true
