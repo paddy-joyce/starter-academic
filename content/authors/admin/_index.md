@@ -51,7 +51,7 @@ social:
   link: https://scholar.google.com/citations?user=qSGZYIcAAAAJ&hl=en
 - icon: researchgate
   icon_pack: fab
-  link: https://researchgate.net/Patrick_Joyce2
+  link: https://researchgate.net/Patrick-Joyce-3
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/patrick-joyce-1a1579a5/
