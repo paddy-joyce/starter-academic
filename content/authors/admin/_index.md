@@ -18,9 +18,9 @@ bio: My research is focussed towards understanding impacts on marine ecosystems 
 
 # Interests to show in About widget
 interests:
-- Marine Ecology
 - Invasive species
-- Global Change
+- Bivalve ecology
+- Global change
 
 # Education to show in About widget
 education:
