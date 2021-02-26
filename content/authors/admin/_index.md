@@ -73,7 +73,7 @@ email: ""
 highlight_name: false
 ---
 
-I am a marine ecologist, currently working at The Chinese University of Hong Kong with [Prof. Laura Falkenberg](https://www.marineecosystems.org). My research is driven by attempts to understand how natural and future environmental conditions alter competition and trophic interactions between species. By using a range of field and laboratory exeriments, I attmept to quantify interaction strengths and predict how environmental change will alter such relationships. The basis of my work involves marine habitat forming bivalves, the organisms associated with these habitats, and in particular,  invasive species. 
+I am a marine ecologist, currently working at The Chinese University of Hong Kong with [Prof. Laura Falkenberg](https://www.marineecosystems.org). My research is driven by attempts to understand how natural and future environmental conditions alter competition and trophic interactions between species. By using a range of field and laboratory experiments, I attemept to quantify interaction strengths and predict how environmental change will alter such relationships. The basis of my work involves marine habitat forming bivalves, the organisms associated with these habitats, and in particular,  invasive species. 
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/PatrickJoyce_CV.pdf" "newtab" >}}CV here{{< /staticref >}}.
