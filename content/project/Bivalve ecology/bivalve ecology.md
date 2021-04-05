@@ -7,6 +7,9 @@ authors: []
 tags: ["bivalve"]
 categories: []
 
+# Is this an unpublished draft?
+draft: false
+
 # Optional external URL for project (replaces project detail page).
 external_link: ""
 
@@ -14,8 +17,9 @@ external_link: ""
 # To use, add an image named `featured.jpg/png` to your page's folder.
 # Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
 image:
-  caption: ""
+  caption: "Invasive Pacific oysters forming reefs in the Limfjorden, Denmark"
   focal_point: ""
+  placement: 2
   preview_only: false
 
 # Custom links (optional).
