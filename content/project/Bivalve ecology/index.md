@@ -23,7 +23,7 @@ featured: false
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
 image:
-  caption: 'Invasive Pacific oysters forming reefs in the Limfjorden, Denmark'
+  caption: 'Invasive Pacific oyster reefs in the Limfjorden, Denmark'
   focal_point: ""
   placement: 2
   preview_only: false
