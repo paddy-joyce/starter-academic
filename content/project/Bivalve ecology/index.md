@@ -30,7 +30,6 @@ image:
 
 authors:
 
-
 tags:
 
 categories:
