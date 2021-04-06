@@ -3,7 +3,7 @@ title: Bivalve ecology
 subtitle: 
 
 # Summary for listings and search engines
-summary: 
+summary: Investigating bivalve functioning from individual to ecosystem
 
 # Link this post with a project
 projects: []
@@ -29,12 +29,13 @@ image:
   preview_only: false
 
 authors:
-- admin
+
 
 tags:
 
 categories:
 
+# this can be used below to add more images to a post ![](reef2.jpg)
 ---
 
 
