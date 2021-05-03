@@ -10,7 +10,7 @@ authors:
 - Jaimie T.A. Dick
 - Neil E. Coughlan
 
-date: "2019-05-00T00:00:00Z"
+date: "2019-05-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.marpolbul.2019.04.011"
 
 # Schedule page publish date (NOT publication's date).
