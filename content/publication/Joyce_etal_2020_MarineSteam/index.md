@@ -1,5 +1,5 @@
 ---
-title: "On the RIP: using Relative Impact Potential to assess the ecological impacts of invasive alien species"
+title: "Stay clean: direct steam exposure to manage biofouling risks"
 authors:
 - Patrick W.S. Joyce
 - Ross N. Cuthbert
@@ -26,15 +26,7 @@ publication_types: ["2"]
 publication: "*Marine Pollution Bulletin*"
 publication_short: ""
 
-abstract: Biofouling by marine organisms can result in a variety of negative environmental and economic consequences,
-with decontamination procedures remaining problematic, costly and labour-intensive. Here, we examined the efficacy of
-direct steam exposure to induce mortality of selected biofouling species: *Mytilus edulis*; *Magallana gigas*;
-*Semibalanus balanoides*; *Fucus vesiculosus*; and an *Ulva* sp. Total mortality occurred at 60-sec of steam exposure for
-*M. edulis* and juvenile *M. gigas*, at 30-sec for *S. balanoides*, while 300-sec was required for adult *M. gigas*. Application
-of steam reduced the biomass of *F. vesiculosus* and significantly reduced *Ulva* sp. biomass, with complete degradation being
-observed for *Ulva* sp. following 120-sec of exposure. Accordingly, it appears that steam exposure can cause mortality of
-biofouling organisms through thermal shock. Although preliminary, our novel and promising results suggest that steam applications
-could potentially be used to decontaminate niche areas and equipment.
+abstract: "Biofouling by marine organisms can result in a variety of negative environmental and economic consequences, with decontamination procedures remaining problematic, costly and labour-intensive. Here, we examined the efficacy of direct steam exposure to induce mortality of selected biofouling species: *Mytilus edulis* ; *Magallana gigas*; *Semibalanus balanoides*; *Fucus vesiculosus*; and an *Ulva* sp. Total mortality occurred at 60-sec of steam exposure for *M. edulis* and juvenile *M. gigas*, at 30-sec for *S. balanoides*, while 300-sec was required for adult *M. gigas*. Application of steam reduced the biomass of *F. vesiculosus* and significantly reduced *Ulva* sp. biomass, with complete degradation being observed for *Ulva* sp. following 120-sec of exposure. Accordingly, it appears that steam exposure can cause mortality of biofouling organisms through thermal shock. Although preliminary, our novel and promising results suggest that steam applications could potentially be used to decontaminate niche areas and equipment."
 
 
 

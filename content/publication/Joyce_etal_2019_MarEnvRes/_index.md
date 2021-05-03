@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: Using functional responses and prey switching to quantify invasion success of the Pacific oyster, *Crassostrea gigas*
+title: Using functional responses and prey switching to quantify invasion success of the Pacific oyster, Crassostrea gigas
 subtitle: ''
 summary: ''
 authors:
