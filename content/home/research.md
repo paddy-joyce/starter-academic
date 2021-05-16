@@ -43,4 +43,3 @@ design:
   flip_alt_rows: false
 ---
 
-Although my research has some primary areas of focus, these are all interlinked in some way or another. I also work with colleagues on several other projects that may not be mentioned here.
