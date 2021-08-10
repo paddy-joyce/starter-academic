@@ -1,5 +1,5 @@
 ---
-  title: ""
+title: "Biometric conversion factors as a unifying platform for comparative assessment of invasive freshwater bivalves"
 authors:
 - Neil E. Coughlan
 - Ross N. Cuthbert
@@ -44,7 +44,7 @@ authors:
 - Francisco Sylvester
 
 date: "2021-06-10T00:00:00Z"
-doi: "https://doi.org/10.1007/s10530-019-02002-z"
+doi: "https://doi.org/10.1111/1365-2664.13941"
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: "Z"
@@ -56,7 +56,7 @@ doi: "https://doi.org/10.1007/s10530-019-02002-z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Biological Invasions*"
+publication: "*Journal of Applied Ecology*"
 publication_short: ""
 
 abstract: "Invasive bivalves continue to spread and negatively impact freshwater ecosystems worldwide. As different metrics for body size and biomass are frequently used within the literature to standardise bivalve-related ecological impacts (e.g. respiration and filtration rates), the lack of broadly applicable conversion equations currently hinders reliable comparison across bivalve populations. To facilitate improved comparative assessment among studies originating from disparate geographical locations, we report body size and biomass conversion equations for six invasive freshwater bivalves (or species complex members) worldwide: Corbicula fluminea, C. largillierti, Dreissena bugensis, D. polymorpha, Limnoperna fortunei and Sinanodonta woodiana, and tested the reliability (i.e. precision and accuracy) of these equations.
