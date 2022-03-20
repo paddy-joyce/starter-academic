@@ -1,23 +1,23 @@
 ---
-  title: "Population Genomics, Transcriptional Response to Heat Shock, and Gut Microbiota of the Hong Kong Oyster Magallana hongkongensis"
+title: "Population Genomics, Transcriptional Response to Heat Shock, and Gut Microbiota of the Hong Kong Oyster Magallana hongkongensis"
 authors:
 - Yichun Xie
-- Elaine YY Huang
+- Elaine Y.Y. Huang
 - Wenyan Nong
-- Sean TS Law
+- Sean T.S. Law
 - Yifei Yu
 - Khan Cheung
 - Yiqian Li
 - Cheuk Fung Wong
 - Ho Yin Yip
-- Patrick WS Joyce
+- Patrick W.S. Joyce
 - King Ming Chan
 - Ka Hou Chu
-- Bayden D Russell
-- Laura J Falkenberg
-- Jerome HL Hui
+- Bayden D. Russell
+- Laura J. Falkenberg
+- Jerome H.L. Hui
 
-date: "2022-02-00T00:00:00Z"
+date: "2022-02-10T00:00:00Z"
 doi: "https://doi.org/10.3390/jmse10020237"
 
 # Schedule page publish date (NOT publication's date).
