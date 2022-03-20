@@ -76,4 +76,4 @@ highlight_name: false
 I am a marine ecologist at The Chinese University of Hong Kong in [Prof. Laura Falkenberg's lab](https://www.marineecosystems.org). My research is driven by attempts to understand how current and future environmental conditions alter organism behaviour and ecophysiology. Further, I am interested in how interactions between species will change with multiple environmental pressures. To do this, I use a range of laboratory and field experimental approaches that allow me to identify particular patterns in organism responses. The basis of my work involves marine habitat forming bivalves and the organisms associated with such habitats, with a particular focus on invasive species. 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/PatrickJoyce_CV.pdf" "newtab" >}}CV here{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/PatrickJoyce_CV.pdf" "newtab" >}}CV here{{< /staticref >}} (March 2022).
